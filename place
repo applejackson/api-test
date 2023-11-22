@@ -1,0 +1,4 @@
+import requests
+
+class Test_new_location():
+
